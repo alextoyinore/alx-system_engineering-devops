@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '/tmp/correction/9222518661084122275693451663111402689910_5/205/27040/0x00-shell_basics'
+export PATH=$PATH:directory
