@@ -1,2 +1,1 @@
-#!/bin/bash
-In this folder i learn about shell permissions
+In this directory i learn all about shell permissions
