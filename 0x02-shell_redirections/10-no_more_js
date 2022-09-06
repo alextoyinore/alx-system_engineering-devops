@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find -type f -exec rm *.js {} \
+sudo find . -name "*.js" -delete
